@@ -1,0 +1,16 @@
+java.io.File
+printStackTrace() //idk
+createNewFile() //boolean value
+write() //to write inside txt file
+close() //close file
+hasNextLine() //returns boolean value to check if there is next line
+getName() //get file name
+getAbsolutePath() //get path of file
+canWrite() //boolean value if can write
+canRead() //boolean value if can read
+length() //return size of file
+exists() //boolean value if file exist
+delete() //deletes file (boolean value)
+
+java.util.Scanner
+nextLine(); return the rest of the current line
